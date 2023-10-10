@@ -1,2 +1,2 @@
-## Firstproject
-# Comparing Gamestop stocks vs Tesla stocks using python
+# Firstproject
+## Comparing Gamestop stocks vs Tesla stocks using python
