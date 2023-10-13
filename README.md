@@ -12,7 +12,7 @@ The datasets consists of 3,344 rows and 8 columns for Tesla stock data and 5452 
   <li>Volume: Amount of a particular asset traded over a period of time.</li>
   <li>Dividends: Share of profits and retained earnings a company usually pays out to its shareholders.</li>
   <li>Stock Splits: Corporate action in which a company divides its existing shares into multiple shares to boost their liquidity and reduce prices.</li>
-</ul
+</ul>
   
 ## Summary of Analysis
 <ul>
@@ -23,5 +23,5 @@ The datasets consists of 3,344 rows and 8 columns for Tesla stock data and 5452 
     <li>There is no significant correlation between the price of the stock and volume of the stock</li>  
 </ul>
 
-## Sugeestion
+## Suggestion
 Analysis should be done to find out what significantly affects the trading volume. Factors like economic news, financial health of the company, release of new products and perfomance of existing products should be considered. 
