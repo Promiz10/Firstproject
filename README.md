@@ -1,4 +1,4 @@
-# Web Scrapping Project
+# Extracting and Analyzing Stock Data
 ## Comparing Gamestop stocks and Tesla stocks using python
 
 In this project I extracted, analysed and display graph for Tesla and Gamestop stocks data from Yahoo Finance. This project analyses the stock price of tesla and gamestop from and generate insights from the stock data and generated graphs to observe the trend over the time.
