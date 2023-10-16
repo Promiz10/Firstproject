@@ -1,7 +1,7 @@
 # Extracting and Analyzing Stock Data
 ## Comparing Gamestop stocks and Tesla stocks using python
 
-In this project I extracted, analysed and displayed graphs for Tesla and Gamestop stocks data from Yahoo Finance. This project analyses the stock price of tesla and gamestop from and generate insights from the stock data and generated graphs to observe the trend over time.
+In this project I extracted, analysed and displayed graphs for Tesla and Gamestop stocks data from Yahoo Finance. This project was carried out to analyse stock price of tesla and gamestop and generate insights from the stock data and generated graphs to observe the trend over time.
 The datasets consists of 3,344 rows and 8 columns for Tesla stock data and 5452 rows and 8 columns for the Gamestop stock data. The columns include Date, Open, High, Low, Close, Volume	Dividends and	Stock Splits.
 ## Data Definition
 <ul>
