@@ -18,7 +18,7 @@ The datasets consists of 3,344 rows and 8 columns for Tesla stock data and 5452 
 <ul>
     <li>Tesla and Gamestop Stock saw sharp increase in price between 2020 and 2022, with both hitting peak prices. However since making those peak prices their prices saw significant decline, with gamestop having about 75% decline and tesla over 37% decline</li>
     <li>The peak prices of Tesla and Gamestop stock are 414.4966 and 120.75 respectively. These peak prices occurred on 4th November 2021 for Tesla and 4th February 2020 for Gamestop</li>
-    <li>The lowest prices of Tesla and Gamestop stock are 0.9986670017242432 and 0.6312187707791683 respectively. These peak prices occurred on 7th July 2010 for Tesla and 11th February 2003 for Gamestop</li>
+    <li>The lowest prices of Tesla and Gamestop stock are 0.9986670017242432 and 0.6312187707791683 respectively. These prices occurred on 7th July 2010 for Tesla and 11th February 2003 for Gamestop</li>
     <li>The peak volume of Tesla and Gamestop stock are 914082000 and 788631600 respectively while lowest trading volume are 1777500 and 260000 </li>   
     <li>There is no significant correlation between the price of the stock and volume of the stock. Therefore, increase in stock price might not necessarily lead to an increase in trading volume.</li>  
 </ul>
